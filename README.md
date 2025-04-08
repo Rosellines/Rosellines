@@ -12,3 +12,14 @@ Saya seorang pengembang perangkat lunak yang tertarik dengan:
 ## 📧 Hubungi Saya
 - Email: [email@domain.com](mailto:email@domain.com)
 - LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/username/)
+- ## 👨‍💻 Tentang Saya
+Saya seorang pengembang perangkat lunak yang berfokus pada **web development** dan **machine learning**.
+
+### 🔧 Teknologi yang Saya Kuasai
+- Python
+- JavaScript
+- React
+
+### 📈 Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+
