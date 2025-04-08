@@ -1,16 +1,14 @@
-## Hi there 👋
+# Halo, saya [Nama Anda] 👋
 
-<!--
-**Rosellines/Rosellines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang pengembang perangkat lunak yang tertarik dengan:
+- Python
+- Web Development
+- AI & Machine Learning
 
-Here are some ideas to get you started:
+## 📚 Proyek Terbaru
+- [Proyek 1](https://github.com/username/repository)
+- [Proyek 2](https://github.com/username/repository)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Hubungi Saya
+- Email: [email@domain.com](mailto:email@domain.com)
+- LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/username/)
