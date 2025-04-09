@@ -6,8 +6,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rosellines&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-<h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="20px">CONNECT WITH ME <h3 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="20px">
-</h3>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="24px" />
+  &nbsp; CONNECT WITH ME &nbsp;
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="24px" />
 </h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/mikasa_nix) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Mikasa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/facethesign) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stuckersilver@gmail.com)
