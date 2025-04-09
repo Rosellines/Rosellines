@@ -1,11 +1,13 @@
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+my+name+is;Prissa+Senja+Dewiandra;Tesnet+Hunter🔥" alt="Typing SVG" />
+  <img src= width="00" alt="Coding GIF">
 </h1>
 
 <!-- Coding GIF -->
 <div align="center">
-  <img src="https://giphy.com/embed/6uRroBkYAr9Hj5VsRq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-6uRroBkYAr9Hj5VsRq">via GIPHY</a></p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW94MzFsMjZxYTNlOGZlemdyNzh1YzRhZ281bWg3MTM2MDgxc2wycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6uRroBkYAr9Hj5VsRq/giphy.gif" 
+       width="480" height="480" alt="Hacker Girl GIF" />
+  <p><a href="https://giphy.com/stickers/transparent-6uRroBkYAr9Hj5VsRq">via GIPHY</a></p>
 </div>
 
 ---
