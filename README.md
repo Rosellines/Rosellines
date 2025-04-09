@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Prissa Senja Dewiandra (Roselline Mikasa)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Prissa Senja Dewiandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
 ## 🏆 GitHub Trophies
