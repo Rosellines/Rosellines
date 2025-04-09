@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Tesnet+Hunter;Computer+Science+Hunter></a>                                                       
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/rvjRyn3dLSj8dqhKuv/giphy.gif">
+ <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500">
 </p>
 
 ## 🏆 GitHub Trophies
