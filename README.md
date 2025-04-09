@@ -6,7 +6,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rosellines&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 20px;">CONNECT WITH ME 🤝 </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">CONNECT WITH ME</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/mikasa_nix) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Mikasa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/facethesign) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stuckersilver@gmail.com)
 <h2 align="center"> SKILL & LANGUANGE <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25px"></h2>
