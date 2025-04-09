@@ -5,21 +5,22 @@
 
 <!-- Typing Intro with Animated Emojis -->
 <h1 align="center">
-  &nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Prissa+Senja+Dewiandra;🔥Testnet+Hunter🔥" alt="Typing SVG" />
-  &nbsp;&nbsp;
+  ✨&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+my+name+is;Prissa+Senja+Dewiandra;🔥Testnet+Hunter🔥" alt="Typing SVG" />
+  &nbsp;&nbsp;🚀
 </h1>
 
 <!-- Hacker Girl Coding GIF -->
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW94MzFsMjZxYTNlOGZlemdyNzh1YzRhZ281bWg3MTM2MDgxc2wycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6uRroBkYAr9Hj5VsRq/giphy.gif" 
-       width="450" height="450" alt="Hacker Girl GIF" />
+       width="600" height="450" alt="Hacker Girl GIF" />
 </div>
 
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
 ---
 
