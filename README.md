@@ -1,11 +1,11 @@
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Rosellines;Code.+Create.+Conquer.🚀;Frontend+%7C+Backend+%7C+DevOps;Welcome+to+my+world+of+builds!🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+Prissa+Senja+Dewiandra;Tesnet+Hunter🔥" alt="Typing SVG" />
 </h1>
 
 <!-- Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </div>
 
 ---
