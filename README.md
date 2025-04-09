@@ -2,12 +2,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Testnet+Hunter;Programmer+Scientist;Role+Player;"></a>
 </p>
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rosellines&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-## 🌐 Socials:
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/mikasa_nix) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Mikasa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/facethesign) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stuckersilver@gmail.com) 
 ## Language & Skill
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="42" height="42" /></a>
