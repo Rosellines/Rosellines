@@ -5,7 +5,7 @@
 
 <!-- Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/rvjRyn3dLSj8dqhKuv/giphy.gif" width="600" height="400" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/F0gsw8Ip2sWgYuC7lR/giphy.gif" width="00" alt="Coding GIF">
 </div>
 
 ---
