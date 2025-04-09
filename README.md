@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW94MzFsMjZxYTNlOGZlemdyNzh1YzRhZ281bWg3MTM2MDgxc2wycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6uRroBkYAr9Hj5VsRq/giphy.gif" 
        width="480" height="480" alt="Hacker Girl GIF" />
-  <p><a href="https://giphy.com/stickers/transparent-6uRroBkYAr9Hj5VsRq"></a></p>
 </div>
 
 ---
