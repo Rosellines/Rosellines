@@ -2,6 +2,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Testnet+Hunter;Programmer+Scientist;Role+Player;"></a>
 </p>
+<div align="center">
+  <a target="_blank" href="#">
+    <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
+</div>
 
 <h2 align="center">
   🏆&nbsp;&nbsp;GitHub Trophies&nbsp;&nbsp;🏆
