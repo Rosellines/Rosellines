@@ -5,7 +5,7 @@
 
 <!-- Coding GIF -->
 <div align="center">
-  <img src="https://sticker.giphy.com/sticker/6uRroBkYAr9Hj5VsRq/giphy.gif" width="00" alt="Coding GIF">
+  <img src="https://giphy.com/embed/6uRroBkYAr9Hj5VsRq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-6uRroBkYAr9Hj5VsRq">via GIPHY</a></p>
 </div>
 
 ---
