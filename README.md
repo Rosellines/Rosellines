@@ -8,6 +8,7 @@
   </a>
 </div>
 
+
 <h2 align="center">
   🏆&nbsp;&nbsp;GitHub Trophies&nbsp;&nbsp;🏆
 </h2>
@@ -15,6 +16,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rosellines&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
 
 <h2 align="center">
   🤝&nbsp;&nbsp;CONNECT WITH ME&nbsp;&nbsp;🤝
@@ -34,6 +36,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </div>
+
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25px" />
