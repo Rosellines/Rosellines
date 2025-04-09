@@ -72,25 +72,6 @@
 
 ---
 
-<!-- 🎧 Nadin Amizah - Bertaut (Clickable Embed) -->
-<h2 align="center">🎧 Nadin Amizah - Bertaut</h2>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=LUXMjpaNLMQ" target="_blank">
-    <img src="https://img.youtube.com/vi/LUXMjpaNLMQ/hqdefault.jpg" width="700" alt="Nadin Amizah - Bertaut">
-  </a>
-</p>
-
-<p align="center"><i>“Tenang Ibu... aku ada di rumah.”</i> 🌸</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=LUXMjpaNLMQ">
-    <img src="https://img.shields.io/badge/▶️ Listen on YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <!-- Footer Parallax -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
