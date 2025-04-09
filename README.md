@@ -4,8 +4,12 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rosellines&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rosellines&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px" />
   &nbsp; CONNECT WITH ME &nbsp;
