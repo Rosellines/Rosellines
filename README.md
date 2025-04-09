@@ -1,18 +1,13 @@
-  <h1 align="center">Hi , I'm Prissa Senja Dewiandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Prissa Senja Dewiandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Tesnet+Hunter;Computer+Science+Hunter></a>                                                       
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/rvjRyn3dLSj8dqhKuv/giphy.gif">
- <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500">
 </p>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rosellines&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/mikasa_nix) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Mikasa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/facethesign) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stuckersilver@gmail.com) 
 ## Language & Skill
-<p>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="42" height="42" /></a>
+<p><a target="_blank" href="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
 <a target="_blank" href="https://bestofjs.org/logos/vuetify.svg" style="display: inline-block;"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="42" height="42" /></a>
@@ -31,6 +26,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
+
 # 💻 Tech Stack:
 <!--tech stack icons-->
 <p align="center">
