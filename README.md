@@ -3,8 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Rosellines;Code.+Create.+Conquer.🚀;Frontend+%7C+Backend+%7C+DevOps;Welcome+to+my+world+of+builds!🔥" alt="Typing SVG" />
 </h1>
 
+<!-- Big Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF">
 </div>
 
 ---
@@ -36,7 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rosellines&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rosellines&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
@@ -71,11 +71,26 @@
 
 ---
 
-<!-- YouTube MP3 Embed -->
-<h2 align="center">🎧 Lo-Fi Beats for Coding</h2>
+<!-- 🎧 Music Player Section -->
+<h2 align="center">🎧 Nadin Amizah - Bertaut</h2>
+
+<!-- Coding Vibes GIF -->
 <p align="center">
-  <iframe width="350" height="200" src="https://www.youtube.com/embed/LUXMjpaNLMQ" title="LoFi Beats" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding Vibes">
 </p>
+
+<!-- YouTube Embed: Autoplay + Loop -->
+<div align="center">
+  <iframe width="700" height="400"
+    src="https://www.youtube.com/embed/LUXMjpaNLMQ?autoplay=1&loop=1&playlist=LUXMjpaNLMQ"
+    title="Nadin Amizah - Bertaut"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<p align="center"><i>“Tenang Ibu... aku ada di rumah.”</i> 🌸</p>
 
 ---
 
