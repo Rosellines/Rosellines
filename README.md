@@ -21,7 +21,6 @@
 
 <!-- Tech Stack -->
 <h2 align="center">🚀 Tech Stack & Tools</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind,bootstrap,sass,nodejs,express,php,laravel,java,spring,py,django,cpp,c,cs,go,rust,swift,kotlin,dart,flutter" />
 </p>
@@ -68,6 +67,30 @@
   <a href="https://x.com/facethesign"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://discord.com/users/Mikasa_nix"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://tiktok.com/@Mikasa"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Spotify Now Playing -->
+<h2 align="center">🎧 Now Playing on Spotify</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mfqlbc6u6eabzkobsoelvvuqiu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
+---
+
+<!-- Wakatime Coding Stats -->
+<h2 align="center">⌨️ Weekly Dev Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rosellines&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- QR code section -->
+<h2 align="center">📉 Scan My Dev Card</h2>
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/Rosellines" alt="QR Code to GitHub" />
 </p>
 
 ---
