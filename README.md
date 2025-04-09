@@ -1,7 +1,7 @@
   <h1 align="center">Hi , I'm Prissa Senja Dewiandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Tesnet+Hunter;Computer+Science+Hunter></a>                                                       
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://giphy.com/embed/rvjRyn3dLSj8dqhKuv">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/rvjRyn3dLSj8dqhKuv/giphy.gif">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -30,7 +30,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
-<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 # 💻 Tech Stack:
 <!--tech stack icons-->
 <p align="center">
