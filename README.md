@@ -74,11 +74,6 @@
 <!-- 🎧 Music Player Section -->
 <h2 align="center">🎧 Nadin Amizah - Bertaut</h2>
 
-<!-- Coding Vibes GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding Vibes">
-</p>
-
 <!-- YouTube Embed: Autoplay + Loop -->
 <div align="center">
   <iframe width="700" height="400"
