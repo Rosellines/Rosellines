@@ -1,6 +1,6 @@
 # Alohaaaa, Iam is Mikasa 👋
 
- <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+ <img align="center" top="500" height="300" width="800" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
  
