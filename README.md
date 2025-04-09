@@ -1,12 +1,19 @@
-<!-- Profile Intro Section -->
-<h1 align="center">
+<!-- Profile Intro Section with Background -->
+<div align="center" style="background-image: url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1400&q=80'); padding: 30px; background-size: cover; background-position: center;">
+
+<h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Rosellines;Code.+Create.+Conquer.🚀;Frontend+%7C+Backend+%7C+DevOps;Welcome+to+my+world+of+builds!🔥" alt="Typing SVG" />
 </h1>
 
-<!-- Big Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF">
+<!-- Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF" />
+
 </div>
+
+<!-- Parallax Emojis (fallback via GIF for GitHub) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitguptab/rohitguptab/main/parallax-emojis.gif" width="700" alt="Emoji Animation" />
+</p>
 
 ---
 
@@ -71,10 +78,13 @@
 
 ---
 
-<!-- 🎧 Music Player Section -->
+<!-- 🎧 Nadin Amizah Music Section -->
 <h2 align="center">🎧 Nadin Amizah - Bertaut</h2>
 
-<!-- YouTube Embed: Autoplay + Loop -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding Vibes">
+</p>
+
 <div align="center">
   <iframe width="700" height="400"
     src="https://www.youtube.com/embed/LUXMjpaNLMQ?autoplay=1&loop=1&playlist=LUXMjpaNLMQ"
