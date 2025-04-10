@@ -28,10 +28,10 @@
 </p>
 
 ---
-<!-- Snake Animation (Ready to Use) -->
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://readme-snake.vercel.app/api?color=gradient&background=00000000&center=true&size=120&snakeColor=00FFAA&animationDuration=5000" alt="snake" />
 </p>
+
 
 
 <!-- Tech Stack -->
