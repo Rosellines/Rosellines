@@ -28,7 +28,7 @@
 </p>
 
 ---
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rosellines/rosellines/master/assets/github-contribution-grid-snake.svg">
 
 <!-- Tech Stack -->
 <h2 align="center">🚀 Tech Stack & Tools</h2>
