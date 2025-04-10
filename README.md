@@ -28,9 +28,11 @@
 </p>
 
 ---
+<!-- Snake GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://readme-snake.vercel.app/api?color=gradient&background=00000000&center=true&size=120&snakeColor=00FFAA&animationDuration=5000" alt="snake" />
+  <img src="https://github.com/Rosellines/Rosellines/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 
