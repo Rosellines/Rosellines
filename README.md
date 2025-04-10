@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Prissa's%20Realm!&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<!-- Typing Intro with Animated Emojis -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Prissa+Senja+Dewiandra;🔥Testnet+Hunter🔥" alt="Typing SVG" />
-</div>
-
 <!-- Hacker Girl Coding GIF -->
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW94MzFsMjZxYTNlOGZlemdyNzh1YzRhZ281bWg3MTM2MDgxc2wycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6uRroBkYAr9Hj5VsRq/giphy.gif" 
