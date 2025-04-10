@@ -28,13 +28,6 @@
 </p>
 
 ---
-<!-- Snake GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://github.com/Rosellines/Rosellines/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
 
 <!-- Tech Stack -->
 <h2 align="center">🚀 Tech Stack & Tools</h2>
