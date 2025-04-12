@@ -10,7 +10,7 @@
 <!-- Hacker Girl Coding GIF -->
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW94MzFsMjZxYTNlOGZlemdyNzh1YzRhZ281bWg3MTM2MDgxc2wycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6uRroBkYAr9Hj5VsRq/giphy.gif" 
-       width="450" height="450" alt="Hacker Girl GIF" />
+       width="250" height="250" alt="Hacker Girl GIF" />
 </div>
 
 <!-- Animated Footer -->
