@@ -1,6 +1,6 @@
 <!-- Background Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Prissa's%20Realm!&fontSize=35&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Mikasa's%20Realm!&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <div align="center">
