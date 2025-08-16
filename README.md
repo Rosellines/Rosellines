@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
+![GitHub followers](https://img.shields.io/github/followers/username?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/username/repo)
+
+
 <!-- Background Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Mikasa's%20Realm!&fontSize=35&fontAlign=50&fontColor=ffffff" />
