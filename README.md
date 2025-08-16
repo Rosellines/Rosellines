@@ -40,7 +40,7 @@
 </p>
 
 ---
-
+[![An image of @rosellines's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rosellines)](https://holopin.io/@rosellines)
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
