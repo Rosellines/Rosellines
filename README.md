@@ -1,7 +1,3 @@
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
-![GitHub followers](https://img.shields.io/github/followers/username?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo)
-
 
 <!-- Background Header -->
 <p align="center">
