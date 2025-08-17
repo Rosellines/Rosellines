@@ -54,11 +54,11 @@
 
 ---
 
-<!-- Contribution Graph -->
-<h2 align="center">⚡ Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rosellines&theme=gruvbox&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
+</picture>
 
 ---
 
