@@ -30,14 +30,51 @@
 
 ---
 
-<!-- Tech Stack -->
-<h2 align="center">🚀 Tech Stack & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind,bootstrap,sass,nodejs,express,php,laravel,java,spring,py,django,cpp,c,cs,go,rust,swift,kotlin,dart,flutter" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,gcp,azure,firebase,mysql,postgres,mongodb,sqlite,redis,git,github,gitlab,vscode,idea,figma,xd,postman,vercel,netlify" />
-</p>
+<h2 align="center">⚡My Tech Stack</h2>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=nodejs" class="icon-spin" width="65" height="65" alt="NodeJS" />
+      <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=vscode" class="icon-bounce" width="65" height="65" alt="VSCode" />
+      <br />VSCode
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
+      <br />Kubernetes
+    </td>
+    <td align="center" width="128">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" class="icon-spin" width="65" height="65" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=go" class="icon-bounce" width="65" height="65" alt="Go" />
+      <br />Go
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" class="icon-glow" width="65" height="65" alt="Nginx" />
+      <br />Nginx
+    </td>
+    </td>
+  </tr>
+</table>
 
 ---
 [![An image of @rosellines's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rosellines)](https://holopin.io/@rosellines)
