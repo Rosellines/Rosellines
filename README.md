@@ -60,7 +60,7 @@
       <br />Github
     </td>
          <td align="center" width="128">
-      <img src="https://lottie.host/1e753496-1a91-4a62-8fde-70975219b9c1/29Ey9K20xN.lottie" class="icon-glow" width="65" height="65" alt="Coding" />
+      <img src="https://lottie.host/embed/1e753496-1a91-4a62-8fde-70975219b9c1/29Ey9K20xN.lottie" class="icon-glow" width="65" height="65" alt="Coding" />
       <br />Coding
     </td>
     <td align="center" width="128">
