@@ -72,7 +72,7 @@
       <br />VSCode
     </td>
     <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=go" class="icon-bounce" width="65" height="65" alt="Go" />
+      <img src="https://cdn3.emoji.gg/emojis/29467-orbs-fascinating.gif" class="icon-bounce" width="65" height="65" alt="Go" />
       <br />Go
     </td>
     </td>
