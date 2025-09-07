@@ -60,8 +60,8 @@
       <br />Github
     </td>
          <td align="center" width="128">
-      <img src="https://media.lordicon.com/icons/wired/flat/743-web-code.gif" class="icon-glow" width="65" height="65" alt="Github" />
-      <br />Github
+      <img src="https://media.lordicon.com/icons/wired/flat/743-web-code.gif" class="icon-glow" width="65" height="65" alt="Coding" />
+      <br />Coding
     </td>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=nodejs" class="icon-spin" width="65" height="65" alt="NodeJS" />
