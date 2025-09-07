@@ -55,10 +55,6 @@
       <img src="https://skillicons.dev/icons?i=nodejs" class="icon-spin" width="65" height="65" alt="NodeJS" />
       <br />NodeJS
     </td>
-      <td align="center" width="128">
-      <img src="https://cdna.iconscout.com/img/full-screen.0cca4a3.svg" class="icon-spin" width="65" height="65" alt="NodeJS" />
-      <br />NodeJS
-    </td>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=vscode" class="icon-bounce" width="65" height="65" alt="VSCode" />
       <br />VSCode
