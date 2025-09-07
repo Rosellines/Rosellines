@@ -64,7 +64,7 @@
       <br />Coding
     </td>
     <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=nodejs" class="icon-spin" width="65" height="65" alt="NodeJS" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oxeDU4cDVmbmlwaG0wZW10MDUwc3dvN3dzNXN4ZzZuMzJoY2ZxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aHmcq9tDRizVrvjp7c/giphy.gif" class="icon-spin" width="65" height="65" alt="NodeJS" />
       <br />NodeJS
     </td>
     <td align="center" width="128">
