@@ -72,8 +72,8 @@
       <br />VSCode
     </td>
     <td align="center" width="128">
-      <img src="https://cdn3.emoji.gg/emojis/29467-orbs-fascinating.gif" class="icon-bounce" width="65" height="65" alt="Go" />
-      <br />Go
+      <img src="https://cdn3.emoji.gg/emojis/29467-orbs-fascinating.gif" class="icon-bounce" width="65" height="65" alt="Discord" />
+      <br /> Discord Event
     </td>
     </td>
   </tr>
