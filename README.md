@@ -64,7 +64,7 @@
       <br />Kubernetes
     </td>
     <td align="center" width="128">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" class="icon-spin" width="65" height="65" alt="Git" />
+      <img src="https://techstack-generator.vercel.app/atom-icon.svg" class="icon-spin" width="65" height="65" alt="Git" />
       <br />Git
     </td>
     <td align="center" width="128">
