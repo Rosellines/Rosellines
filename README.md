@@ -60,10 +60,6 @@
       <br />VSCode
     </td>
     <td align="center" width="128">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
-      <br />Kubernetes
-    </td>
-    <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=go" class="icon-bounce" width="65" height="65" alt="Go" />
       <br />Go
     </td>
