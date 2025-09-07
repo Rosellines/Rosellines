@@ -56,19 +56,19 @@
       <br />Redux
     </td>
      <td align="center" width="128">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" class="icon-glow" width="65" height="65" alt="Github" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGswNDVxb2NhNHJ2eGh2YzY0MG11amwzeTN4YWp3ZmR5dXg5dmpoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USsF4v0PuW2VuWz7dJ/giphy.gif" class="icon-glow" width="65" height="65" alt="Github" />
       <br />Github
     </td>
          <td align="center" width="128">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmMwbWF4dW1jMWtkb2trNW9kYXFmeGJybWp6bmxtZzZua20xdmF4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qqqLDoKLGQUaKtz7C4/giphy.gif" class="icon-glow" width="65" height="65" alt="Coding" />
-      <br />Coding
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmMwbWF4dW1jMWtkb2trNW9kYXFmeGJybWp6bmxtZzZua20xdmF4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qqqLDoKLGQUaKtz7C4/giphy.gif" class="icon-glow" width="65" height="65" alt="Git" />
+      <br />Git
     </td>
     <td align="center" width="128">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oxeDU4cDVmbmlwaG0wZW10MDUwc3dvN3dzNXN4ZzZuMzJoY2ZxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aHmcq9tDRizVrvjp7c/giphy.gif" class="icon-spin" width="65" height="65" alt="NodeJS" />
       <br />NodeJS
     </td>
     <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=vscode" class="icon-bounce" width="65" height="65" alt="VSCode" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG14dHJwa2hjZTljcjBxOGZjcnNxcnNheHF4YTgwYnVhcXNpbmQwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BMt6x30rgITZOPRULY/giphy.gif" class="icon-bounce" width="65" height="65" alt="VSCode" />
       <br />VSCode
     </td>
     <td align="center" width="128">
