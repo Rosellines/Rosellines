@@ -68,7 +68,7 @@
       <br />Kubernetes
     </td>
     <td align="center" width="128">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" class="icon-spin" width="65" height="65" alt="Git" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" class="icon-spin" width="65" height="65" alt="Git" />
       <br />Git
     </td>
     <td align="center" width="128">
