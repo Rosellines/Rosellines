@@ -4,14 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Mikasa's%20Realm!&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=My+name+is;Mikasa+Nix;Testnet+Hunter" alt="Typing SVG" />
-</div>
-
 <!-- Hacker Girl Coding GIF -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW94MzFsMjZxYTNlOGZlemdyNzh1YzRhZ281bWg3MTM2MDgxc2wycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6uRroBkYAr9Hj5VsRq/giphy.gif" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNieGhmZjd0MHN4a3kwdXVvbG5taXV1NDlkZG5hdjJ1NWFua2ZyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYLfbiIkTejJjZjk40/giphy.gif" 
        width="250" height="250" alt="Hacker Girl GIF" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=My+name+is;Mikasa+Nix;Testnet+Hunter" alt="Typing SVG" />
 </div>
 
 <!-- Animated Footer -->
@@ -22,6 +22,7 @@
 
 <!-- Profile Badges -->
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=Rosellines&label=Profile+Views&color=brightgreen&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Rosellines?style=for-the-badge&color=yellow" />
   <img src="https://img.shields.io/github/followers/Rosellines?style=for-the-badge&color=blue" />
