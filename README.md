@@ -6,7 +6,7 @@
 
 <!-- Hacker Girl Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/F0gsw8Ip2sWgYuC7lR/giphy.gif" 
+  <img src="https://media.giphy.com/media/M1j4hREKKKHwjMPuh0/giphy.gif" 
        width="350" height="450" alt="Hacker Girl GIF" />
 </div>
 
