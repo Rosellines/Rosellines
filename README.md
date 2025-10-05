@@ -22,7 +22,7 @@
 
 <div align="center">
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; width: max-content; margin: 0 auto;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cyeDNtMm1rdGU4cHF2cG4zdWV6ajIwN2NuZmhrY25tbWE2Z3RkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KWuzH11VTI27P5eNxT/giphy.gif" width="150" height="150"/>
+  <img src="https://media.giphy.com/media/exED146gxBe1pEaAmJ/giphy.gif" width="150" height="150"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXltem5kYm44c2F2azd2bTg3N2FrYmc2NzkxOG9kOGR3amNjaGQwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XpWEOWI9w0yiKzhrTX/giphy.gif" width="150" height="150"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRoanAza3czNHd3MXU5NHYxeXlrN2wxdmo5YzkxM3FhZDE5b3NpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/71qdRQssu9M87HSDZE/giphy.gif" width="100" height="150"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW4zMnRoNjFycjA0a3IxbWl0end5c29iaHkxaGJyN2FwMXNrdjJ4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PDvOjkunSkFo2jPKOO/giphy.gif" width="150" height="150"/>
