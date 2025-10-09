@@ -89,6 +89,13 @@
 </table>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
+</picture>
+
+---
 [![An image of @rosellines's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rosellines)](https://holopin.io/@rosellines)
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -100,14 +107,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
-</picture>
 
 ---
 
