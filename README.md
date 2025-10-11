@@ -20,14 +20,11 @@
 </p>
 
 
-<div align="center">
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; width: max-content; margin: 0 auto;">
-  <img src="https://media.giphy.com/media/exED146gxBe1pEaAmJ/giphy.gif" width="150" height="150"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXltem5kYm44c2F2azd2bTg3N2FrYmc2NzkxOG9kOGR3amNjaGQwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XpWEOWI9w0yiKzhrTX/giphy.gif" width="150" height="150"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRoanAza3czNHd3MXU5NHYxeXlrN2wxdmo5YzkxM3FhZDE5b3NpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/71qdRQssu9M87HSDZE/giphy.gif" width="100" height="150"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW4zMnRoNjFycjA0a3IxbWl0end5c29iaHkxaGJyN2FwMXNrdjJ4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PDvOjkunSkFo2jPKOO/giphy.gif" width="150" height="150"/>
-</div>
----
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rosellines&theme=gruvbox&no-bg=true&no-frame=true&margin-w=6" />
+</p>
 
 <h2 align="center">⚡My Tech Stack</h2>
 <br />
@@ -76,15 +73,6 @@
   </tr>
 </table>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
-</picture>
-
----
-[![An image of @rosellines's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rosellines)](https://holopin.io/@rosellines)
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -95,17 +83,23 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
+</picture>
+
+<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; width: max-content; margin: 0 auto;">
+  <img src="https://media.giphy.com/media/exED146gxBe1pEaAmJ/giphy.gif" width="150" height="150"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXltem5kYm44c2F2azd2bTg3N2FrYmc2NzkxOG9kOGR3amNjaGQwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XpWEOWI9w0yiKzhrTX/giphy.gif" width="150" height="150"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRoanAza3czNHd3MXU5NHYxeXlrN2wxdmo5YzkxM3FhZDE5b3NpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/71qdRQssu9M87HSDZE/giphy.gif" width="100" height="150"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW4zMnRoNjFycjA0a3IxbWl0end5c29iaHkxaGJyN2FwMXNrdjJ4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PDvOjkunSkFo2jPKOO/giphy.gif" width="150" height="150"/>
+</div>
 
 ---
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rosellines&theme=gruvbox&no-bg=true&no-frame=true&margin-w=6" />
-</p>
-
----
-
+[![An image of @rosellines's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rosellines)](https://holopin.io/@rosellines)
 <!-- Connect Section -->
 <h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
 <p align="center">
