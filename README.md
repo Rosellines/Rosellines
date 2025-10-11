@@ -73,16 +73,32 @@
   </tr>
 </table>
 
-<!-- GitHub Stats -->
+<!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rosellines&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rosellines&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+<!-- Baris 1: Stats & Streak -->
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rosellines&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    width="47%" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Rosellines&theme=tokyonight&hide_border=true" 
+    width="47%" 
+    alt="GitHub Streak"
+  />
+</div>
+
+<!-- Baris 2: Languages -->
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide_progress=false" 
+    width="60%" 
+    alt="Most Used Languages"
+  />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
