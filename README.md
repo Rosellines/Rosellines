@@ -102,12 +102,9 @@
     width="29%"
     alt="Top Language"
 </div>
+  
 ### 🧊 GitHub 3D Contribution
-
-<a href="https://github.com/${{ github.repository_owner }}">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="700" alt="3D GitHub Profile Contribution Graph" />
-</a>
-
+![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
