@@ -83,7 +83,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
----
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
