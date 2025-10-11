@@ -23,7 +23,7 @@
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rosellines&theme=gruvbox&no-bg=true&no-frame=true&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rosellines&theme=onedark&no-bg=true&no-frame=true&margin-w=6" />
 </p>
 
 <h2 align="center">⚡My Tech Stack</h2>
@@ -79,13 +79,13 @@
 <!-- Baris 1: Stats & Streak -->
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rosellines&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Rosellines&show_icons=true&theme=onedark&hide_border=true&count_private=true" 
     width="47%" 
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Rosellines&theme=tokyonight&hide_border=true" 
-    width="47%" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Rosellines&theme=onedark&hide_border=true" 
+    width="50%" 
     alt="GitHub Streak"
   />
 </div>
@@ -93,10 +93,14 @@
 <!-- Baris 2: Languages -->
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide_progress=false" 
-    width="60%" 
-    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide_progress=false" 
+    width="50%" 
+    alt="Progress Language"
   />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosellines&theme=onedark&hide_border=true&hide_progress=false&custom_title=Top-Language&wid"
+    width="29%"
+    alt="Top Language"
 </div>
 
 
