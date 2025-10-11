@@ -27,22 +27,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRoanAza3czNHd3MXU5NHYxeXlrN2wxdmo5YzkxM3FhZDE5b3NpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/71qdRQssu9M87HSDZE/giphy.gif" width="100" height="150"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW4zMnRoNjFycjA0a3IxbWl0end5c29iaHkxaGJyN2FwMXNrdjJ4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PDvOjkunSkFo2jPKOO/giphy.gif" width="150" height="150"/>
 </div>
-
-
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rosellines&label=Profile+Views&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Rosellines?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/followers/Rosellines?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%94%8D-blue?style=for-the-badge" />
-</p>
-
 ---
 
 <h2 align="center">⚡My Tech Stack</h2>
-
 <br />
-
 <table align="center">
   <tr>
     <td align="center" width="128">
@@ -126,6 +114,13 @@
   <a href="https://x.com/facethesign"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://discord.com/users/Mikasa_enix"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://tiktok.com/@Mikasa"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rosellines&label=Profile+Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Rosellines?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/Rosellines?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%94%8D-blue?style=for-the-badge" />
 </p>
 
 ---
