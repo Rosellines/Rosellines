@@ -1,7 +1,7 @@
-name: Generate GitHub Contribution Snake
+name: Generate GitHub Contribution Snake (Cyberpunk Neon Edition)
 
 on:
-  # jalan otomatis tiap hari jam 00:00 UTC (ubah sesuai selera)
+  # jalan otomatis tiap hari jam 00:00 UTC
   schedule:
     - cron: "0 0 * * *"
   # bisa dijalankan manual dari tab Actions
@@ -21,14 +21,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake (SVG)
+      - name: Generate Snake (Cyberpunk Neon)
         id: snake
         uses: Platane/snk@v3
         with:
           github_user_name: Rosellines
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-light&color_snake=#C800FF&color_dots=#00FFFF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#C800FF&color_dots=#00FFFF
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
