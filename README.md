@@ -122,7 +122,6 @@
 
 ---
 [![An image of @rosellines's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rosellines)](https://holopin.io/@rosellines)
-[ETH GAS ID]<img src="https://imgur.com/OGsQ2AQ.jpg"/>
 [MentoFX]<img src="https://imgur.com/lllYHGr.jpg"/>
 <!-- Connect Section -->
 <h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
