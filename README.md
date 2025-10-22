@@ -103,9 +103,6 @@
     alt="Top Language"
 </div>
   
-### 🧊 GitHub 3D Contribution
-![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosellines/Rosellines/output/github-snake.svg" />
