@@ -19,7 +19,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
