@@ -12,7 +12,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rosellines&theme=onedark&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Rosellines&theme=onedark&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 <h2 align="center">⚡ My Tech Stack</h2>
@@ -65,13 +65,13 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rosellines&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true" width="47%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rosellines&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true" width="47%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Rosellines&theme=onedark&hide_border=true" width="50%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide_progress=false" width="49%" alt="Progress Language" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosellines&layout=donut&theme=onedark&hide_border=true&langs_count=8&custom_title=Top%20Languages" width="36%" alt="Top Language" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rosellines&layout=compact&theme=onedark&hide_border=true&langs_count=10&hide_progress=false" width="49%" alt="Progress Language" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rosellines&layout=donut&theme=onedark&hide_border=true&langs_count=8&custom_title=Top%20Languages" width="36%" alt="Top Language" />
 </div>
 
 <h2 align="center">👾 Arcade Contributions</h2>
