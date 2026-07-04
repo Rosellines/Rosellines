@@ -2,7 +2,7 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,16 +17,39 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate pacman graph
+      - name: Generate pacman SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Rosellines
+          games: pacman
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Duplicate dark asset for theme switching
+        run: |
+          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+
+      - name: Publish pacman assets to output branch
+        run: |
+          git fetch origin
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git worktree add output-branch refs/remotes/origin/output
+          else
+            git worktree add -b output output-branch
+          fi
+
+          cp dist/pacman-contribution-graph.svg output-branch/
+          cp dist/pacman-contribution-graph-dark.svg output-branch/
+
+          cd output-branch
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          if git diff --cached --quiet; then
+            echo "No pacman changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update pacman contribution graph"
+          git push origin HEAD:output
